@@ -2,7 +2,7 @@
 
 This repository contains the codebase and resources for our graduation project titled "Melanoma Classification Model Using Deep Learning." Skin cancer, particularly melanoma, is a significant health concern, and early diagnosis is crucial for improving patient outcomes. Our project focuses on developing an efficient and accessible deep-learning model to classify melanoma lesions from clinical images.
 
-# Key Features:
+## Key Features:
 
 Implementation of Convolutional Neural Networks (CNNs) for image classification.
 Utilization of state-of-the-art deep learning techniques for melanoma detection.
