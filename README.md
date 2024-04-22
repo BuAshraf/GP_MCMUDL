@@ -14,12 +14,10 @@ Comprehensive documentation and resources for training and evaluation.
 https://www.kaggle.com/datasets/abhishekaulakh/melenoma-cnn-dataset
 
 ### Contributors:
-1. Muhammed Al-Kulaib **[💼](
-[http://linkedin.com/in/khaled-al-qahtani-7a311a260](https://www.linkedin.com/in/muhammed-alkulaib/))**
-2. Khaled Al-Qahtani **[💼](
-http://linkedin.com/in/khaled-al-qahtani-7a311a260)**
-3. Saad Al-Dossari **[💼](https://www.linkedin.com/in/saad-aldossari-75a520233?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)**
-4. Fahad Al-Taher **[💼](https://www.linkedin.com/in/fahad-altaher-b671ab263?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)**
+1. Muhammed Al-Kulaib **[💼](http://linkedin.com/in/muhammed-alkulaib)**
+2. Khaled Al-Qahtani **[💼](https://www.linkedin.com/in/khaled-al-jubair-7a311a260/)**
+3. Saad Al-Dossari **[💼](https://www.linkedin.com/in/saad-mubarak-75a520233/)**
+4. Fahad Al-Taher **[💼](https://www.linkedin.com/in/fahad-altaher-b671ab263/)**
 ### Supervisor:
 Dr. Mohammed Abu Al-Rub
 ____________________________________________________________________
