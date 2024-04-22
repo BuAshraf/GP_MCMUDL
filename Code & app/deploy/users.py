@@ -1,0 +1,17 @@
+USERS=[
+    {
+        'id':0,
+        'Email':'ahmad@gmail.com',
+        'password':'123456'
+    },
+    {
+        'id':1,
+        'Email':'mona@gmail.com',
+        'password':'10101515'
+    },
+    {
+        'id':2,
+        'Email':'omar@gmail.com',
+        'password':'omar1'
+    },
+]
