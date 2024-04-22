@@ -29,27 +29,38 @@ We express our gratitude to our professors and mentors for their guidance and su
 
 
 # How we run the code 
+1. **Download Anaconda from this [link](https://www.anaconda.com/)**
 
-#### 1-	We must download the anaconda from this link
-            
-![1](./Read ME/1.PNG?raw=true "1")
+![1](./Read%20ME/1.PNG?raw=true "1")
 
-            https://www.anaconda.com/
-#### 2- Download the VScode from this link and install it 
-            https://code.visualstudio.com/download
-![2](./Read ME/2.PNG?raw=true "2")
-#### 3- Go to the extension part in VScode and download the python and Jupiter extensions
-![3](./Read ME/3.PNG?raw=true "3")
-#### 4- Insert the file of code and file of dataset in same folder and open it by VScode
-![4](./Read ME/4.PNG?raw=true "4")
-#### 5- To train the model open the melanoma22.ipynb and click in run all button.
-![5](./Read ME/5.PNG?raw=true "5")
-#### 6-	To run the gui open folder deploy and chose file gui.py
-![6](./Read ME/6.PNG?raw=true "6")
-#### 7- The chose run button in vscode
-![7](./Read ME/7.PNG?raw=true "7")
-#### 8- Few seconds and the main screen popped up 
-![8](./Read ME/8.PNG?raw=true "8")
+2. **Download Visual Studio Code from this [link](https://code.visualstudio.com/download) and install it**
+
+![2](./Read%20ME/2.PNG?raw=true "2")
+
+3. **Go to the extension part in Visual Studio Code and download the Python and Jupyter extensions**
+
+![3](./Read%20ME/3.PNG?raw=true "3")
+
+4. **Insert the code file and dataset file in the same folder and open it with Visual Studio Code**
+
+![4](./Read%20ME/4.PNG?raw=true "4")
+
+5. **To train the model, open the `melanoma22.ipynb` file and click on the "Run All" button**
+
+![5](./Read%20ME/5.PNG?raw=true "5")
+
+6. **To run the GUI, open the `deploy` folder and choose the `gui.py` file**
+
+![6](./Read%20ME/6.PNG?raw=true "6")
+
+7. **Click the run button in Visual Studio Code**
+
+![7](./Read%20ME/7.PNG?raw=true "7")
+
+8. **After a few seconds, the main screen will pop up**
+
+![8](./Read%20ME/8.PNG?raw=true "8")
+
 _______________________________________________________________________________________________________
 Feel free to explore the codebase, contribute to the project, or use the model for research purposes. For any inquiries or collaborations, please contact the project maintainers.
 
