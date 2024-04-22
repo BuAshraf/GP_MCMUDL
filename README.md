@@ -25,3 +25,15 @@ ____________________________________________________________________
 We express our gratitude to our professors and mentors for their guidance and support throughout this project.
 _______________________________________________________________________________________________________
 Feel free to explore the codebase, contribute to the project, or use the model for research purposes. For any inquiries or collaborations, please contact the project maintainers.
+
+## Get to Know Me  😁
+
+- 🌐 **Website:**  I will add it in the future 😅
+  
+- 🌐 **Star.Code:** [See my Profile](https://profile.satr.codes/buashraf/public/overview)
+
+- 💼 **LinkedIn:** [Connect with me](www.linkedin.com/in/muhammed-alkulaib-773492238)
+
+- ✖ **Twitter:** [Follow me](https://twitter.com/bo_ashraf)
+
+- 📬 **Email:** [Connect with me](muhammedalmugera21@gmail.com)
