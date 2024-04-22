@@ -9,6 +9,9 @@ Utilization of state-of-the-art deep learning techniques for melanoma detection.
 Evolutionary algorithm-based approach for handling imbalanced datasets.
 Comprehensive documentation and resources for training and evaluation.
 
+## dataset link
+
+https://www.kaggle.com/datasets/abhishekaulakh/melenoma-cnn-dataset
 
 ### Contributors:
 1. Muhammed Al-Kulaib
