@@ -31,7 +31,7 @@ We express our gratitude to our professors and mentors for their guidance and su
 # How we run the code 
 
 #### 1-	We must download the anaconda from this link
-            ![1](./Read ME/1.png?raw=true "1")
+            ![1](./GP_MCMUDL/Read ME/1.png?raw=true "1")
 
 
             https://www.anaconda.com/
