@@ -31,23 +31,25 @@ We express our gratitude to our professors and mentors for their guidance and su
 # How we run the code 
 
 #### 1-	We must download the anaconda from this link
-            ![1](./GP_MCMUDL/Read ME/1.png?raw=true "1")
-
+            
+![1](./Read ME/1.PNG?raw=true "1")
 
             https://www.anaconda.com/
 #### 2- Download the VScode from this link and install it 
             https://code.visualstudio.com/download
+![2](./Read ME/2.PNG?raw=true "2")
 #### 3- Go to the extension part in VScode and download the python and Jupiter extensions
-
+![3](./Read ME/3.PNG?raw=true "3")
 #### 4- Insert the file of code and file of dataset in same folder and open it by VScode
-
+![4](./Read ME/4.PNG?raw=true "4")
 #### 5- To train the model open the melanoma22.ipynb and click in run all button.
-
+![5](./Read ME/5.PNG?raw=true "5")
 #### 6-	To run the gui open folder deploy and chose file gui.py
-
+![6](./Read ME/6.PNG?raw=true "6")
 #### 7- The chose run button in vscode
-
+![7](./Read ME/7.PNG?raw=true "7")
 #### 8- Few seconds and the main screen popped up 
+![8](./Read ME/8.PNG?raw=true "8")
 _______________________________________________________________________________________________________
 Feel free to explore the codebase, contribute to the project, or use the model for research purposes. For any inquiries or collaborations, please contact the project maintainers.
 
