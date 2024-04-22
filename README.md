@@ -11,7 +11,7 @@ Comprehensive documentation and resources for training and evaluation.
 
 
 ### Contributors:
-1. Mohammed Al-Kulaib
+1. Muhammed Al-Kulaib
 2. Khaled Al-Qahtani
 3. Saad Al-Dossari
 4. Fahad Al-Taher
