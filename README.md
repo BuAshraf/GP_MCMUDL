@@ -10,8 +10,7 @@ Evolutionary algorithm-based approach for handling imbalanced datasets.
 Comprehensive documentation and resources for training and evaluation.
 
 ## dataset link
-🌐 ****Download Data set from this:[link]
-(https://www.kaggle.com/datasets/abhishekaulakh/melenoma-cnn-dataset)**
+**🌐** **Download Data set from this: [link](https://www.kaggle.com/datasets/abhishekaulakh/melenoma-cnn-dataset)**
 
 
 ### Contributors:
