@@ -11,10 +11,10 @@ Comprehensive documentation and resources for training and evaluation.
 
 ### Be Aware
 
-Before proceeding with the project, make sure to download the dataset from the following link:
+Before proceeding with the project, make sure to download the dataset from the following link:**🌐** **Download Dataset from this: [link(https://www.kaggle.com/datasets/abhishekaulakh/melenoma-cnn-dataset)**
 
-**🌐** **Download Dataset from this: [link](https://www.kaggle.com/datasets/abhishekaulakh/melenoma-cnn-dataset)**
-The dataset is essential for training the model and running the code successfully. Please ensure that you have the dataset available in the specified location before running any code.
+The dataset is essential for training the model and running the code successfully. 
+Please ensure that you have the dataset available in the specified location before running any code.
 
 
 
